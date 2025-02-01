@@ -27,7 +27,3 @@ Spark RDDs are designed to be immutable. The immutability of Spark RDDs simplifi
 - This immutability holds true **regardless of the language** you use with Spark.
 - In **Scala**, immutability feels more natural because the language itself promotes it, but **Spark enforces it universally**.
 
-
-
-
-https://medium.com/@roopa.kushtagi/why-sparks-immutable-rdds-shine-in-big-data-processing-7fafe0e41a18#:~:text=The%20immutability%20of%20Spark%20RDDs,efficient%2C%20reliable%2C%20and%20scalable.
